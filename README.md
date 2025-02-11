@@ -29,7 +29,7 @@ This repository provides a Google Colab notebook that demonstrates how to create
   - `google-generativeai`
   - `moviepy`
   - `Pillow`
-  - `kokoro`
+  - [`kokoro`](https://github.com/hexgrad/kokoro)
   - Other helper libraries (e.g., `soundfile`, `numpy`)
 
 ### Setting Up Your API Key in Colab
