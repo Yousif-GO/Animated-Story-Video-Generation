@@ -1,6 +1,11 @@
 # Gemini API: Animated Story Video Generation
+https://github.com/user-attachments/assets/d8d85e34-b3bb-4d08-89d3-1af149633a86
 
 This repository provides a Google Colab notebook that demonstrates how to create animated story videos by integrating multiple Google APIs and open source libraries. The notebook leverages:
+
+
+
+
 
 - **Google Gemini API** to generate a structured story sequence.
 - **Google Imagen API** to generate images for each scene.
